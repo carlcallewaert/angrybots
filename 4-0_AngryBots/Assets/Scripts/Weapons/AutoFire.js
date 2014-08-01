@@ -2,6 +2,8 @@
 
 @script RequireComponent (PerFrameRaycast)
 
+// this is a comment from Nate
+
 var bulletPrefab : GameObject;
 var spawnPoint : Transform;
 var frequency : float = 10;
